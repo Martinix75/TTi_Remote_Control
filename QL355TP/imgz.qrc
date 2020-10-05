@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file alias="Panoratux.png">Icons/panoratux.png</file>
+        <file alias="Sconnesso.png">Icons/Sconnesso.png</file>
+        <file alias="Connesso.png">Icons/Connesso.png</file>
+        <file alias="Info.png">Icons/Info.png</file>
+        <file alias="InfoServer.png">Icons/InfoServer.png</file>
+        <file alias="Led_Rosso.png">Icons/Led_Rosso.png</file>
+        <file alias="Led_Rosso_Lamp.gif">Icons/Led_Rosso_Lamp.gif</file>
+        <file alias="Led_Verde.png">Icons/Led_Verde.png</file>
+        <file alias="Led_Spento.png">Icons/Led_Spento.png</file>
+        <file alias="Led_Spento.png">Icons/Led_Spento.png</file>
+        <file alias="LogoIOM.png">Icons/LogoIOM.png</file>
+        <file alias="Cloud.png">Icons/Cloud.png</file>
+        <file alias="Connect.png">Icons/Connect.png</file>
+        <file alias="Usb.png">Icons/Usb.png</file>
+        <file alias="Angel.png">Icons/Angel.png</file>
+    </qresource>
+</RCC>
+
